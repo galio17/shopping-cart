@@ -33,7 +33,7 @@ logo.innerText = 'Virtual Market';
 productListHeader.id = 'list-header';
 productListHeader.innerHTML = '<h2>Item</h2> <h2>Valor</h2>';
 endButton.innerText = 'Finalizar compra';
-
+        
 productList.appendChild(productListHeader);
 
 prices();
