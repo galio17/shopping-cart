@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <style>
     * {
@@ -44,3 +46,4 @@
     </strong>
   </main>
 </body>
+</html>
