@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 color="#12ef89">
-    Virtual Market
+    Shopping Cart
   </h1>
   <div>
     <img src="https://img.shields.io/badge/HTML%205-E34F26?style=flat-square&logo=html5&labelColor=101010">
